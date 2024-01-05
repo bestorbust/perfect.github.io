@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>university </title>
+    <link rel="stylesheet" href="templet.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <section class="header">
+        <nav>
+            <a href="templet.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQ7dsQUGPfRIX--cXVF3QFYNcQxoF5RuFFg&usqp=CAU" alt=""></a>
+            <div class="nav-links" id="navlinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">ABOUT</a></li>
+                    <li><a href="">COURSE</a></li>
+                    <li><a href="">REGISTER</a></li>
+                    <li><a href="#contact">CONTACT</a></li>
+
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="openMenu()"></i>
+
+        </nav>
+
+
+        <div class="text-box">
+            <h1>World's best university</h1>
+            <p>its easier to develop website using html,css<br>js  and we are good to go.lets see how our website looks.</p>
+<a href="" class="btn">Visit Us to know more</a>
+        </div>
+
+        </div>
+    </section>
+
+    <section class="course">
+        <h1>Courses we offer</h1>
+        <p>lorem ipsum dolor sit amet,consectetur adipiscing elit.</p>
+        <div class="row">
+            <div class="course-col">
+                <h3>Intermediate</h3>
+                <p>In 1867, when Mendeleev began writing
+                     Principles of Chemistry, he set out 
+                     to organize and explain the elements. 
+                     He began with what he called the “typical” 
+                     elements: hydrogen, oxygen, nitrogen, and carbon.
+                      Those substances demonstrated a natural order for
+                       themselves. Next he included the halogens, which
+                        had low atomic weights, reacted easily with other
+                         elements, and were readily available in nature. He
+                          had begun by using atomic weights as a principle of
+                           organization, but these alone did not present a clear system.</p>
+            </div>
+            
+            <div class="course-col">
+                <h3>ug</h3>
+                <p>In 1867, when Mendeleev began writing
+                     Principles of Chemistry, he set out 
+                     to organize and explain the elements. 
+                     He began with what he called the “typical” 
+                     elements: hydrogen, oxygen, nitrogen, and carbon.
+                      Those substances demonstrated a natural order for
+                       themselves. Next he included the halogens, which
+                        had low atomic weights, reacted easily with other
+                         elements, and were readily available in nature. He
+                          had begun by using atomic weights as a principle of
+                           organization, but these alone did not present a clear system.</p>
+            </div>
+
+            <div class="course-col">
+                <h3>pg</h3>
+                <p>In 1867, when Mendeleev began writing
+                     Principles of Chemistry, he set out 
+                     to organize and explain the elements. 
+                     He began with what he called the “typical” 
+                     elements: hydrogen, oxygen, nitrogen, and carbon.
+                      Those substances demonstrated a natural order for
+                       themselves. Next he included the halogens, which
+                        had low atomic weights, reacted easily with other
+                         elements, and were readily available in nature. He
+                          had begun by using atomic weights as a principle of
+                           organization, but these alone did not present a clear system.</p>
+            </div>
+        </div>
+
+    </section>
+
+    <section class="campus">
+        <h1>Our global campus</h1>
+        <p>Next he included the halogens, which
+            had low atomic weights, reacted easily with other
+             elements, and were readily available in nature.</p>
+
+
+             <div class="row">
+                <div class="campus-col">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZ-YMp2drCKCDNkQpODLnMFsYlN8y6oRlGQ&usqp=CAU">
+                <div class="layer">
+                    <h3>London</h3>
+                </div>
+             </div>
+             <div class="campus-col">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvM3-zannbRPe-rDtI-hbkbsCp5WcxgcSJg28sQ7Fnd8Apjn9rHfI7f75dcL_a2r_1_Q&usqp=CAU">
+                <div class="layer">
+                    <h3>New york</h3>
+                </div>
+             </div>
+             <div class="campus-col">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzypDj-DLZIoo5HYCHIn9VRV3AbjZjygVKSKQBK9NbzHo100CPCSlzS_DQIyZVjS1DwiY&usqp=CAU">
+                <div class="layer">
+                    <h3>Washington</h3>
+                </div>
+             </div>
+
+        
+            </div>
+    </section>
+    
+    <section class="facilities">
+        <h1>Our facilities</h1>
+        <p>Next he included the halogens, which
+            had low atomic weights, reacted easily with other
+             elements, and were readily available in nature.</p>
+             <div class="row">
+                <div class="fac-col">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKbGDgip7AyZoar9s0IXTcDxJFdGtrlKcksUu6QuwxPGI-enyDwd443x_sQqr_PrRs04&usqp=CAU">
+                    <h3>library</h3>
+                    <p>Next he included the halogens, which
+                        had low atomic weights, reacted easily with other
+                         elements, and were readily available in nature.</p>
+                </div>
+
+                <div class="fac-col">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FqNWRxm5ITcDvZCvhHLAhFXy_47PJhc4tyjAf3giQRI-0L_BQRaDMukhqACOMyy7upw&usqp=CAU">
+                    <h3>game</h3>
+                    <p>Next he included the halogens, which
+                        had low atomic weights, reacted easily with other
+                         elements, and were readily available in nature.</p>
+                </div>
+                <div class="fac-col">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJImVn_n9e_xKthfGw7vKsXP7AuYlUElMzTA&usqp=CAU">
+                    <h3>food</h3>
+                    <p>Next he included the halogens, which
+                        had low atomic weights, reacted easily with other
+                         elements, and were readily available in nature.</p>
+                </div>
+                
+             </div>
+    </section>
+
+   
+   <section class="comm">
+    <h1>what our students says</h1>
+    <p>Next he included the halogens, which
+        had low atomic weights, reacted easily with other
+         elements, and were readily available in nature.</p>
+<div class="row">
+    <div class="comm-col">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDepAckvojWyXCFQr7e7UQRTIcsFOTiJhMfA&usqp=CAU">
+                    <p>Next he included the halogens, which
+                        had low atomic weights, reacted easily with other
+                         elements, and were readily available in nature.</p>
+                         <h3>user1</h3>
+                         <i class="fa fa-star" ></i>
+                         <i class="fa fa-star" ></i>
+                         <i class="fa fa-star" ></i>
+                         <i class="fa fa-star" ></i>
+                         <i class="fa fa-star-o" ></i>
+
+
+    </div>
+    <div class="comm-col">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbgGpyf4S5dIQ7xiSjzjgqqJcPRtZ8hNsUg&usqp=CAU">
+                    <p>Next he included the halogens, which
+                        had low atomic weights, reacted easily with other
+                         elements, and were readily available in nature.</p>
+                         <h3>user2</h3>
+                         <i class="fa fa-star" ></i>
+                         <i class="fa fa-star" ></i>
+                         <i class="fa fa-star" ></i>
+                         <i class="fa fa-star" ></i>
+                         <i class="fa fa-star-half-o" ></i>
+    </div>
+</div>
+   </section>
+   
+
+   <section class="call">
+    <h1>Enroll for various online courses <br>anywhere from the world</h1>
+    <a href="form.html" class="btn">contact us</a>
+   </section>
+   <footer>
+    <section id="contact" class="footer">
+        <h4>About us</h4>
+        <p>Next he included the halogens, which
+            had low atomic weights,<br> reacted easily with other
+             elements, and were readily available in nature.</p>
+       <div class="icon">
+        <a href="form.html"><i class="fa fa-facebook" ></i></a>
+        <i class="fa fa-instagram" ></i>
+        <i class="fa fa-linkedin" ></i>
+        <i class="fa fa-twitter" ></i>
+
+
+       </div>
+       </p>
+    </section>
+   </footer>
+    <!--js for toggle menu-->
+
+    <script>
+        var navlinks=document.getElementById("navlinks");
+        function openMenu(){
+            navlinks.style.right="0";
+        }
+        function hideMenu(){
+            navlinks.style.right="-200px";
+        }
+    </script>
+</body>
+</html>
